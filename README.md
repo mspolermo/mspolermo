@@ -23,7 +23,6 @@
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="30" height="30" title="Redux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mobx/mobx-original.svg" alt="MobX" width="30" height="30" title="MobX"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="VueX" width="30" height="30" title="VueX"/>
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest" width="30" height="30" title="Jest"/>
   <img src="https://testing-library.com/img/octopus-128x128.png" alt="React Testing Library" width="30" height="30" title="React Testing Library"/>
