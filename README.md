@@ -1,7 +1,5 @@
 # Frontend Developer 🇷🇺
 
-## Technology Stack:
-
 - **Languages:** `TypeScript`, `JavaScript`
 - **Frameworks**: `React`, `Vue`, `Express`
 - **Build Tools**: `Webpack`, `Vite`
