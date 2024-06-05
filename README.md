@@ -57,7 +57,7 @@
   </a>
 
   <a href="https://loki.js.org/" target="_blank" >
-    <img src="https://avatars.githubusercontent.com/u/44281093?s=200&v=4" alt="Loki" width="30" height="30" title="Loki"/>
+    <img src="https://loki.js.org/img/favicon.svg" alt="Loki" width="30" height="30" title="Loki"/>
   </a>
 
   <a href="https://axios-http.com/" target="_blank" >
@@ -66,6 +66,10 @@
 
   <a href="https://storybook.js.org/" target="_blank" > 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" alt="Storybook" width="30" height="30" title="Storybook"/>
+  </a>
+
+  <a href="https://www.i18next.com/" target="_blank" >
+    <img src="https://www.i18next.com/~gitbook/image?url=https%3A%2F%2F286188001-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-L9iS6Wm2hynS5H9Gj7j%252Favatar.png%3Fgeneration%3D1523462254548780%26alt%3Dmedia&width=32&dpr=2&quality=100&sign=abfb659dc061dad75b6477df2da0d18eefed4935bd3007296a75d10556ccba6a" alt="I18n" title="I18n" width="30" height="30" />
   </a>
 
   <a href="https://eslint.org/" target="_blank" >
@@ -86,6 +90,10 @@
 
   <a href="https://vuetifyjs.com/" target="_blank" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="30" height="30" title="Vuetify"/>
+  </a>
+
+  <a href="https://www.cypress.io/" target="_blank" >
+    <img src="https://www.cypress.io/_astro/navbar-brand.D87396b0.svg" alt="Cypress" title="Cypress" width="30" height="30" />
   </a>
 
   <a href="https://expressjs.com/" target="_blank" >
