@@ -1,13 +1,14 @@
 # Frontend Developer 🇷🇺
 
 - **Languages:** `TypeScript`, `JavaScript`
-- **Frameworks**: `React`, `Vue`, `Express`
+- **Frameworks**: `React`, `Vue`, `Next`, `Nest`, `Express`
 - **Build Tools**: `Webpack`, `Vite`
 - **State Management**: `Redux`, `MobX`, `VueX`
 - **Testing**: `Jest`, `React Testing Library`, `Loki`, `Cypress`
-- **Development Tools**: `Axios`, `Storybook`, `I18n`, `Husky`, etc.
+- **Development Tools**: `Axios`, `Storybook`, `I18n`, `Husky` etc.
 - **Code-style**: `ESLint`, `Prettier`, `Stylelint`
 - **UI Libraries**: `Bootstrap`, `Material UI`, `Vuetify`
+- **Data Bases**: `PosgreSQL`, `MySQL`, `MongoDB`
 
 ##
 <div align="center">
