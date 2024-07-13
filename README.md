@@ -33,6 +33,10 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="30" height="30" title="Vue.js"/>
   </a>
 
+  <a href="https://nestjs.com/" target="_blank" >
+    <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="Nest" width="30" height="30" title="Nest.js"/>
+  </a>
+
   <a href="https://webpack.js.org/" target="_blank" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" alt="Webpack" width="30" height="30" title="Webpack"/>
   </a>
