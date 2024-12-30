@@ -4,11 +4,11 @@
 - **Frameworks**: `React`, `Vue`, `Next`, `Nest`, `Express`
 - **Build Tools**: `Webpack`, `Vite`
 - **State Management**: `Redux`, `MobX`, `VueX`
-- **Testing**: `Jest`, `React Testing Library`, `Loki`, `Cypress`
+- **Testing**: `Jest`, `React Testing Library`, `Loki`, `Cypress`, `Vitest`
 - **Development Tools**: `Axios`, `Storybook`, `I18n`, `Husky` etc.
 - **Code-style**: `ESLint`, `Prettier`, `Stylelint`
 - **UI Libraries**: `Bootstrap`, `Material UI`, `Vuetify`
-- **Data Bases**: `PosgreSQL`, `MySQL`, `MongoDB`
+- **Data Bases**: `PosgreSQL`, `MySQL`, `MongoDB`, `Firebase`
 
 ##
 <div align="center">
@@ -31,10 +31,6 @@
 
   <a href="https://vuejs.org/" target="_blank" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue" width="30" height="30" title="Vue.js"/>
-  </a>
-
-  <a href="https://nestjs.com/" target="_blank" >
-    <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="Nest" width="30" height="30" title="Nest.js"/>
   </a>
 
   <a href="https://webpack.js.org/" target="_blank" >
@@ -95,10 +91,6 @@
 
   <a href="https://vuetifyjs.com/" target="_blank" >
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="30" height="30" title="Vuetify"/>
-  </a>
-
-  <a href="https://www.cypress.io/" target="_blank" >
-    <img src="https://www.cypress.io/_astro/navbar-brand.D87396b0.svg" alt="Cypress" title="Cypress" width="30" height="30" />
   </a>
 
   <a href="https://expressjs.com/" target="_blank" >
