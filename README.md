@@ -1,4 +1,4 @@
-# Frontend Developer 🇷🇺
+# Full-Stack Web Developer
 
 - **Languages:** `TypeScript`, `JavaScript`
 - **Frameworks**: `React`, `Vue`, `Next`, `Nest`, `Express`
